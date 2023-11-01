@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: chartreuse;
+  font-family:'Courier New', Courier, monospace
+}
+h1 {
+  background-color: darkcyan;
+}
+
+.dishpicture {
+  width: 300px;
+  height: auto;
+  border-radius: 7px;
+  
+}
+
+a {
+  color: aqua;
+}
